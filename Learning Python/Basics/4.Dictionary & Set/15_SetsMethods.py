@@ -1,0 +1,16 @@
+collection = set()
+collection.add(1)
+collection.add(2)
+collection.add(2)
+collection.add(2)
+collection.add(3)
+collection.add(4)
+collection.add(4)
+collection.add("mumin")
+collection.add((1,2,3))
+collection.add(17)
+
+collection.remove(17)
+
+print(collection)
+print(len(collection))

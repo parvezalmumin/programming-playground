@@ -1,0 +1,14 @@
+# Rules for Identifiers:
+    - Identifiers can be combination of uppercase and lowercase letters, digits or an underscore(_)
+    - An Identifiers can not start digits. It will run but it is not good practise. So, Variable1 is valid but 1variable is not valid.
+    - We can't use special  symbols like ! @ $ % ^ & * etc in our Identifiers
+    - Identifiers can be of any length
+
+
+
+
+
+INDEXING
+Character   P  y  t  h  o  n
+Positive    0  1  2  3  4  5
+Negative   -6 -5 -4 -3 -2 -1

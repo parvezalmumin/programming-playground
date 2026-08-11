@@ -1,0 +1,1 @@
+print("My Name is Mumin","I am 23 years old.")

@@ -1,0 +1,5 @@
+f = open(r"E:\Programming Playground\Learning Python\Basics\7. File Input-Output\demo.txt", "r")
+data = f.read()
+print(data)
+print(type(data))
+f.close()

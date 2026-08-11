@@ -1,0 +1,5 @@
+print("Hi")
+print("This is python code.")
+print("Hi","This is python code.")
+print(17)
+print(17 + 3)
